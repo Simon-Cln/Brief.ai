@@ -19,3 +19,9 @@ Brief.ai est un outil basé sur l'intelligence artificielle pour créer des rés
 1. Clonez le repository :
    ```bash
    git clone https://github.com/Simon-Cln/brief.ai.git
+
+
+### Démonstration vidéo
+<video src="demo_brief.ai.mp4" controls="controls" style="max-width: 100%; height: auto;">
+    Votre navigateur ne supporte pas les vidéos.
+</video>
