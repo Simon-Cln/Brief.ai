@@ -25,3 +25,6 @@ Brief.ai est un outil basé sur l'intelligence artificielle pour créer des rés
 <video src="demo_brief.ai.mp4" controls="controls" style="max-width: 100%; height: auto;">
     Votre navigateur ne supporte pas les vidéos.
 </video>
+
+### Démonstration GIF
+![Démonstration](assets/demo_brief.gif)
