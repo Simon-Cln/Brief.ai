@@ -1,5 +1,11 @@
+import sys
+import os
 from flask import Flask
 from flask_cors import CORS
+
+# Ajouter le répertoire parent de `src` au PYTHONPATH
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+
 from src.config import load_config
 from src.routes.file_upload import file_upload_bp
 
