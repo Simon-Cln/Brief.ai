@@ -1,0 +1,8 @@
+digraph {
+	"Cluster 0" [label="Cluster 0"]
+	"Cluster 0" -> "This is the first cluster."
+	"Cluster 0" -> "Another sentence in cluster 0."
+	"Cluster 1" [label="Cluster 1"]
+	"Cluster 1" -> "Cluster 1 sentence."
+	"Cluster 1" -> "Second sentence in cluster 1."
+}

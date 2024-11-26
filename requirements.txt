@@ -1,0 +1,12 @@
+# Bibliothèques pour l'OCR
+pytesseract
+Pillow
+# Bibliothèques pour le NLP et clustering
+sentence-transformers
+scikit-learn
+# Bibliothèque pour visualisation de la mindmap
+graphviz
+# Framework pour l'interface (si utilisé)
+flask
+PyYAML
+pytest  # Pour les tests unitaires

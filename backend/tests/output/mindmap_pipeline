@@ -1,0 +1,14 @@
+digraph {
+	"Cluster 0" [label="Cluster 0"]
+	"Cluster 0" -> "What is a ChatBot"
+	"Cluster 0" -> "A program that attempts to have a conversation"
+	"Cluster 0" -> "with a person for a few minutes with the objective"
+	"Cluster 0" -> "of making it feel like it is talking to a human."
+	"Cluster 0" -> "“Chatbots are intelligent conversational computer programs that mimic human conversation in its natural form”"
+	"Cluster 1" [label="Cluster 1"]
+	"Cluster 1" -> ""
+	"Cluster 1" -> ""
+	"Cluster 1" -> ""
+	"Cluster 1" -> "» eFrei"
+	"Cluster 1" -> ""
+}

@@ -1,0 +1,19 @@
+digraph {
+	"Cluster 0" [label="Cluster 0"]
+	"Cluster 0" -> "same way as human beings"
+	"Cluster 1" [label="Cluster 1"]
+	"Cluster 1" -> "ig)"
+	"Cluster 1" -> "= =5 learning"
+	"Cluster 1" -> "EgeNLP)"
+	"Cluster 2" [label="Cluster 2"]
+	"Cluster 2" -> "Definition of NLP"
+	"Cluster 2" -> "Natural language processing (NLP) refers to the branch of"
+	"Cluster 2" -> "artificial intelligence (Al) which aims to give computers the"
+	"Cluster 2" -> "ability to interpret and produce written language acts in the"
+	"Cluster 2" -> iB:" it yan"
+	"Cluster 2" -> "1 linguistics Ee"
+	"Cluster 3" [label="Cluster 3"]
+	"Cluster 3" -> if
+	"Cluster 4" [label="Cluster 4"]
+	"Cluster 4" -> "a Rateranc © (B ie"
+}
